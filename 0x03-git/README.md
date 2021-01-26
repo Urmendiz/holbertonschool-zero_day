@@ -1,1 +1,1 @@
-This project is about Git and its branches
+This project is about Git and its branches options
